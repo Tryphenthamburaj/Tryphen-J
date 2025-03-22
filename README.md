@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tryphenthamburaj J</h1>
 <h3 align="center">Software Engineer | Generative AI & Machine Learning Enthusiast</h3>
 
+- 🔭 I’m currently working on **Generative AI Project**
+
 - 🌱 I’m currently learning **Generative AI & Machine Learning**
 
 - 📫 How to reach me **tryphenjece@gmail.com**
